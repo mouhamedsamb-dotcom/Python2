@@ -61,7 +61,7 @@ def janken():
             print("La maquina ha guanyat la partida!")
         else:
             print("Empat final!")
-        janken()
+janken()
 
         
 
